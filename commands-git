@@ -3,3 +3,5 @@ git add <Fichiers ou dossier à inclure>
 git commit -m <nom du commit/explications>
 git push https://<token>@github/<nom d'utilisateur github>/<nom du répertoire github>.git
 git pull https://<token>@github/<nom d'utilisateur github>/<nom du répertoire github>.git
+git branch <nom de la branche>
+git checkout <nom de la branche
